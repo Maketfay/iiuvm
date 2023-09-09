@@ -1,0 +1,3 @@
+﻿  lab1.cpp
+D:\BSUIR\5 term\ИиУВМ\lab1\lab1.cpp(68,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  lab1.vcxproj -> D:\BSUIR\5 term\ИиУВМ\lab1\x64\Debug\lab1.exe
